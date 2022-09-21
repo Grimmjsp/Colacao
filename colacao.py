@@ -1,5 +1,4 @@
 # Teaching PC how to make ColaCao
-
 print("[!]Si [!]No \n") # Aceptable answer
 
 inicio = input("¿Quieres que te prepare un colacao? \n") # Initial question
